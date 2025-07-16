@@ -1,0 +1,8 @@
+
+Original file line number	Diff line number	Diff line change
+@@ -0,0 +1,5 @@
+pandas
+scipy
+matplotlib
+tensorflow==2.8.4
+validate_email
